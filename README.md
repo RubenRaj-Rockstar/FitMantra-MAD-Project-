@@ -2,15 +2,11 @@
 
 Fitness app inspired from MyFitnessPal by 2nd Year Students from Faculty of Computer Science & Information Technology University of Malaya
 
-## Getting Started
+## Group Members
 
-This project is a starting point for a Flutter application.
+RUBEN RAJ A/L SIVAPERUMAL
+ISHWAAR ANANDHE THURAI
+KIRRTANAA NALLATHAMBY 
+XIN CAO
+YONG YEW SING
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
