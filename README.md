@@ -1,6 +1,6 @@
-# fitmantra
+# FitMantra
 
-A new Flutter project.
+Fitness app inspired from MyFitnessPal by 2nd Year Students from Faculty of Computer Science & Information Technology University of Malaya
 
 ## Getting Started
 
